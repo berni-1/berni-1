@@ -6,4 +6,4 @@
 
 <h3 align="center">Profile stats</h3>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=berni-1&show_icons=true&theme=synthwave" /></p>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=berni-1&repo=github-readme-stats" /></p>
