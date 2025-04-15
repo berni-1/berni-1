@@ -1,8 +1,5 @@
-<h2 align="center">Github stats :bar_chart:</h2>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{berni-1}/count.svg" /></p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berni-1&langs_count=10&theme=tokyonight" /></p>
-
-<h3 align="center">Profile stats</h3>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=berni-1&show_icons=true&theme=synthwave" /></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ToberoCat/ToberoCat/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ToberoCat/ToberoCat/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ToberoCat/ToberoCat/output/github-contribution-grid-snake.svg">
+</picture>
