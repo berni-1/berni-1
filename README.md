@@ -27,7 +27,7 @@
 
 ###
 
-<h3 align="left">I'm Berni<br><br>⚡ I work as an Electrician.<br>🔥 I'm a Firefighter<br>📍 Based in Austria</h3>
+<h3 align="left">I'm Berni<br>⚡ Electrician<br>🔥 Firefighter<br>📍 Based in Austria</h3>
 
 ###
 
